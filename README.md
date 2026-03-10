@@ -45,6 +45,7 @@ Busco oportunidades que me permitan **aprender, colaborar y construir soluciones
 ![XML](https://img.shields.io/badge/XML-005A9C?logo=xml&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)
 
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-E74430?logo=laravel&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)

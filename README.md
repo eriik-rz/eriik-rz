@@ -120,7 +120,8 @@ Busco oportunidades que me permitan **aprender, colaborar y construir soluciones
 
 ---
 
-## 📊 Estadísticas públicas de GitHub
+## 📊 Estadísticas de GitHub
+> 📁 *Basadas únicamente en repositorios públicos*
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eriik-rz&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eriik-rz&layout=compact&theme=radical)

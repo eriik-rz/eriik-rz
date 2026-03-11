@@ -1,139 +1,165 @@
-![Banner de presentación](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Erik%20Ruiz%20Alos&fontSize=40&fontAlign=50&fontAlignY=35)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Erik%20Ruiz%20Alos&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Desarrollador%20Web%20Junior%20%7C%20DAW&descAlign=50&descAlignY=58&descSize=18)
 
-# 👋 ¡Hola! Soy Erik Ruiz Alos
+<div align="center">
 
-💻 Desarrollador Web Junior | 🎓 Técnico en Sistemas Microinformáticos
-🎨 Creativo, resolutivo y orientado al usuario  
-📍 Alcalá la Real (Jaén / Granada) | Estudiante en IES Alfonso XI  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erik-ruiz-alos-183607203)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_eriik.rz/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erikataun@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=eriik-rz&style=for-the-badge&color=blueviolet)](https://github.com/eriik-rz)
 
-![Profile Views](https://komarev.com/ghpvc/?username=flama012&color=blue)
-
----
-
-## 🧠 Acerca de mí
-
-Actualmente curso el **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**, tras haber completado el ciclo de **Sistemas Microinformáticos y Redes (SMR)**. Esta formación me permite combinar la parte técnica con la experiencia de usuario, el diseño y la comunicación.
-
-Me considero una persona **organizada, proactiva y con visión estructurada**, capaz de adaptarse a distintos entornos y aportar valor tanto en el plano técnico como en el humano.
+</div>
 
 ---
 
-## 🏢 Experiencia práctica
+## 👋 Sobre mí
 
-- **TechScout**: Mantenimiento y reparación de equipos, instalación de sistemas y soporte técnico.  
-- **GreenPhone**: Encargado de tienda, gestión operativa, atención personalizada y resolución de incidencias técnicas.  
-- **Prisma**: Diseño gráfico personalizado, branding digital, gestión de redes sociales y atención visual orientada al cliente.  
+Empecé reparando ordenadores y terminé enamorándome del código. Hoy construyo aplicaciones web que combinan lógica, diseño y experiencia de usuario real.
+
+Actualmente curso el **Grado Superior en DAW** en IES Alfonso XI (Alcalá la Real), con base previa en **SMR**. Esa combinación de hardware + software me da una visión más completa que la mayoría: entiendo el sistema desde dentro.
+
+Durante el programa **Erasmus+** trabajé como técnico en **TechScout (Pescara, Italia)**, una experiencia que amplió mi visión profesional y me demostró que puedo adaptarme a cualquier entorno.
+
+Me mueven los proyectos donde **el diseño importa tanto como el código**, donde una buena interfaz puede cambiar cómo alguien vive una experiencia.
+
+📍 Alcalá la Real · Disponible para prácticas y proyectos remotos
 
 ---
 
-## 🚀 Objetivo profesional
+## 🚀 Proyectos destacados
 
-Seguir creciendo como **desarrollador web**, integrando diseño, funcionalidad y experiencia de usuario en proyectos reales.  
-Busco oportunidades que me permitan **aprender, colaborar y construir soluciones que marquen la diferencia**.
+### [`mindloop-mvc`](https://github.com/flama012/mindloop-mvc)
+> Plataforma de gestión y evaluación educativa con arquitectura MVC. Roles de alumno, profesor y admin, banco de preguntas, corrección automática y sistema de logs.
+
+![PHP](https://img.shields.io/badge/PHP%208.2-787CB5?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white)
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+### [`moodloop`](https://github.com/flama012/moodloop)
+> Red social emocional para compartir publicaciones según el estado de ánimo diario. Feed filtrable por emoción, sistema de seguidores, likes, comentarios y verificación por correo.
 
+![PHP](https://img.shields.io/badge/PHP%208.2-787CB5?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+
+---
+
+### [`mini-drive`](https://github.com/flama012/mini-drive.git)
+> Sistema de almacenamiento personal tipo Drive. Gestión completa de carpetas y archivos, 2FA simplificado, búsqueda, previsualización y espacio aislado por usuario.
+
+![PHP](https://img.shields.io/badge/PHP-787CB5?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
+
+---
+
+### [`chat-asistencia-mvc`](https://github.com/flama012/chat-asistencia-mvc)
+> Sistema de asistencia con chat entre usuarios y asistentes. Login en dos pasos, gestión de solicitudes por estado y arquitectura MVC limpia orientada al aprendizaje.
+
+![PHP](https://img.shields.io/badge/PHP-787CB5?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+
+---
+
+## 🛠️ Stack tecnológico
+
+### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-787CB5?logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white)
-![XML](https://img.shields.io/badge/XML-005A9C?logo=xml&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)
-
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-E74430?logo=laravel&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
+### ⚙️ Backend & Frameworks
+![PHP](https://img.shields.io/badge/PHP-787CB5?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-E74430?logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
+
+### 🛢️ Bases de datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![HeidiSQL](https://img.shields.io/badge/HeidiSQL-3A3A3A?logo=databricks&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white)
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?logo=phpstorm&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
-
+### 🖥️ Sistemas & DevOps
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
-![CMD](https://img.shields.io/badge/CMD-000000?logo=windows-terminal&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 
-![Active Directory](https://img.shields.io/badge/Active%20Directory-003366?logo=microsoft&logoColor=white)
-![LDAP](https://img.shields.io/badge/LDAP-0A66C2?logo=ldap&logoColor=white)
-![DHCP](https://img.shields.io/badge/DHCP-FFCC00?logo=windows&logoColor=black)
-![DNS](https://img.shields.io/badge/DNS-025E8C?logo=cloudflare&logoColor=white)
-![FTP](https://img.shields.io/badge/FTP-009FDA?logo=files&logoColor=white)
-![SFTP](https://img.shields.io/badge/SFTP-2F8D46?logo=openssh&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-000000?logo=openssh&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
-
-![Word](https://img.shields.io/badge/Word-2B579A?logo=microsoftword&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white)
-![Access](https://img.shields.io/badge/Access-A4373A?logo=microsoftaccess&logoColor=white)
-![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?logo=googledocs&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white)
-![Google Slides](https://img.shields.io/badge/Google%20Slides-F4B400?logo=googleslides&logoColor=white)
+### 🔧 Herramientas & Diseño
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?logo=phpstorm&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
-
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
-![GIMP](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=white)
-![Photopea](https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-1F1F1F?logo=davinciresolve&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?logo=capcut&logoColor=white)
-![Filmora](https://img.shields.io/badge/Filmora-0B5CFF?logo=filmora&logoColor=white)
-![Wireframe](https://img.shields.io/badge/Wireframe-0052CC?logo=blueprint&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 
 ---
 
-## 📦 Proyectos destacados
+## 📚 Actualmente ampliando formación
 
-- [`mindloop-mvc`](https://github.com/flama012/mindloop-mvc): Proyecto de plataforma de Gestión y Evaluación Educativa desarrollada con MVC.
-- [`moodloop`](https://github.com/flama012/moodloop): Proyecto de red social emocional para compartir publicaciones según el estado emocional diario.
-- [`mini-drive`](https://github.com/flama012/mini-drive.git): Pequeño gestor de archivos con subida, previsualización y organización básica.
-- [`chat-asistencia-mvc`](https://github.com/flama012/chat-asistencia-mvc): Sistema sencillo de asistencia con chats en PHP usando arquitectura MVC.  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-E74430?logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Inteligencia Artificial](https://img.shields.io/badge/Inteligencia%20Artificial-FF6F00?logo=openai&logoColor=white)
+
+---
+
+## 💼 Experiencia práctica
+
+| Empresa | Rol | Áreas | Periodo |
+|---|---|---|---|
+| **ISPGestión** | Desarrollador de Software (Prácticas DAW) | Digitalización, gestión de datos, estudios de mercado y análisis de lenguajes/frameworks, desarrollo de nueva aplicación web | feb. 2026 – actualidad |
+| **Prisma** | Técnico multifuncional (Prácticas DAW) | Soporte técnico, instalación de hardware/software, diseño gráfico y contenido digital, atención al cliente | may. 2025 – jun. 2025 |
+| **GreenPhone** | Encargado de tienda | Atención al cliente, soporte técnico en dispositivos móviles, gestión de inventario, contratación de servicios de líneas y red con compañías telefónicas | abr. 2024 – ene. 2025 |
+| **TechScout** *(Erasmus+ 🇮🇹)* | Técnico (Prácticas SMR) | Reparación de dispositivos Apple, Android y equipos Windows, diagnóstico de averías en entorno profesional | mar. 2023 – jun. 2023 |
+
+---
+
+## 🌍 Idiomas
+
+![Español](https://img.shields.io/badge/Español-Nativo-green)
+![Inglés](https://img.shields.io/badge/Inglés-Técnico%20(en%20mejora)-yellow)
+![Italiano](https://img.shields.io/badge/Italiano-Básico-lightgrey)
 
 ---
 
 ## 📊 Estadísticas de GitHub
+
 > 📁 *Basadas únicamente en repositorios públicos*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eriik-rz&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eriik-rz&layout=compact&theme=radical)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eriik-rz&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eriik-rz&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 📫 Contacto
+<div align="center">
 
-- 📧 Email: **erikataun@gmail.com**  
-- 💼 LinkedIn: [erik-ruiz-alos](https://linkedin.com/in/erik-ruiz-alos-183607203)  
-- 📸 Instagram: [_erik.rz](https://www.instagram.com/_eriik.rz/)  
+*"Empecé con un destornillador. Ahora construyo con código. Lo que sigue me lo estoy inventando."*
 
----
+</div>
 
-> 💡 *“La tecnología no solo resuelve problemas, también puede emocionar, conectar y transformar.”*
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)

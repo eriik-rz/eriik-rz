@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erik-ruiz-alos-183607203)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_eriik.rz/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erikataun@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=eriik-rz&style=for-the-badge&color=3a7dff)](https://github.com/eriik-rz)
 
 </div>

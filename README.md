@@ -169,7 +169,7 @@ Me mueven los proyectos donde **el diseño importa tanto como el código**, dond
 
 <div align="center">
 
-*"Empecé con un destornillador. Ahora construyo con código. Lo que sigue me lo estoy inventando."*
+*"Empecé con un destornillador. Ahora construyo con código. Lo que sigue ya lo estoy compilando."*
 
 </div>
 

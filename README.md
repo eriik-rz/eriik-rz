@@ -9,7 +9,7 @@ Soy desarrollador de software y Técnico Superior en Desarrollo de Aplicaciones 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/areas-oscuro.svg">
-  <img alt="Qué hago: desarrollo (aplicaciones web y nuevas funcionalidades, integraciones con APIs, pruebas), interfaces (UX/UI, bocetos y prototipos, también con IA) e IA aplicada (agentes con Claude Code, configuración y orquestación con revisores)" src="assets/areas-claro.svg" width="100%">
+  <img alt="Qué hago: desarrollo (aplicaciones web y nuevas funcionalidades, integraciones con APIs, pruebas), interfaces (UX/UI, bocetos y prototipos) e IA aplicada (agentes con Claude Code, configuración y orquestación con revisores)" src="assets/areas-claro.svg" width="100%">
 </picture>
 
 ### Experiencia

@@ -23,6 +23,11 @@ Software SaaS de gestión para operadores de telecomunicaciones.
 - Investigación de IA, agentes y herramientas, y agentes internos para cuestionarios, vídeos de formación y optimización de consultas SQL, construidos dirigiendo agentes de IA (Claude Code). Preparé dos cursos de IA para la plantilla.
 - Configuración de entornos de desarrollo y ayuda en la configuración de máquinas para clientes.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/flujo-oscuro.svg">
+  <img alt="Cómo trabajo con IA: contexto (memoria, reglas, skills), agentes que hacen las tareas, revisores que comprueban el trabajo y devuelven correcciones, y resultado revisado" src="assets/flujo-claro.svg" width="100%">
+</picture>
+
 ### Proyectos
 
 **Forja de Héroes** · <sub>proyecto propio · desde jul 2026</sub><br>

@@ -7,6 +7,8 @@
 
 Soy desarrollador de software y Técnico Superior en Desarrollo de Aplicaciones Web (DAW), titulado en mayo de 2026. Busco un puesto de **desarrollo web, front-end o interfaces**, mejor si va de la mano de la IA, en remoto o presencial en la zona de Granada y Jaén.
 
+**[Portfolio: eriik-rz.github.io](https://eriik-rz.github.io)**: mis proyectos, el CV y mis enlaces en una página.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/areas-oscuro.svg">
   <img alt="Qué hago: desarrollo (aplicaciones web y nuevas funcionalidades, integraciones con APIs, pruebas), interfaces (UX/UI, bocetos y prototipos) e IA aplicada (agentes con Claude Code, configuración y orquestación con revisores)" src="assets/areas-claro.svg" width="100%">
@@ -30,20 +32,25 @@ Software SaaS de gestión para operadores de telecomunicaciones.
 
 ### Proyectos
 
+**[Luzeira](https://github.com/eriik-rz/luzeira)** · <sub>proyecto propio · publicada en nov 2026 · libre (GPL-3.0)</sub><br>
+App para las pantallas USB de monitorización del PC: muestra la CPU, la gráfica, la memoria, la red y la hora, con 32 temas y un editor visual para hacer los tuyos. Hecha con agentes de IA (Claude Code). [Descargar](https://github.com/eriik-rz/luzeira/releases/latest) · [Web](https://eriik-rz.github.io/luzeira/)
+
 **Forja de Héroes** · <sub>proyecto propio · desde jul 2026</sub><br>
 Aplicación web de D&D. Hecha con React y agentes de IA (Claude Code). Desplegada.
 
 **Portal B2B para un cliente** · <sub>encargo · desde jul 2026, en desarrollo</sub><br>
 Portal de pedidos para un negocio del sector de la automoción, con acceso de clientes y el catálogo de un proveedor. Laravel, Filament y React.
 
-<sub>Los repositorios son privados por ahora.</sub>
+<sub>Los repositorios de Forja de Héroes y del portal son privados por ahora.</sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/trayectoria-oscuro.svg">
-  <img alt="Trayectoria: CFGM SMR 2021–2023 y CFGS DAW 2024–2026; TechScout 2023, GreenPhone 2024–2025, Prisma 2025 e ISP Gestión 2026; Forja de Héroes y portal B2B desde jul 2026, en curso" src="assets/trayectoria-claro.svg" width="100%">
+  <img alt="Trayectoria: CFGM SMR 2021–2023 y CFGS DAW 2024–2026; TechScout 2023, GreenPhone 2024–2025, Prisma 2025 e ISP Gestión 2026; Forja de Héroes y portal B2B desde jul 2026, en curso, y Luzeira, publicada en nov 2026" src="assets/trayectoria-claro.svg" width="100%">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-oscuro.svg">
   <img alt="Stack: PHP, Laravel, APIs, React, JavaScript, HTML, CSS, PostgreSQL, MySQL, UX/UI, prototipado, Figma, Claude Code, agentes de IA, MCP, Git, GitLab, Linux" src="assets/stack-claro.svg" width="100%">
 </picture>
+
+<sub>¿Te resulta útil algún proyecto? Puedes [invitarme a un café en Ko-fi](https://ko-fi.com/eriik_rz). Es voluntario.</sub>

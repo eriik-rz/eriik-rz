@@ -7,7 +7,7 @@
 
 Soy desarrollador de software y Técnico Superior en Desarrollo de Aplicaciones Web (DAW), titulado en mayo de 2026. Busco un puesto de **desarrollo web, front-end o interfaces**, mejor si va de la mano de la IA, en remoto o presencial en la zona de Granada y Jaén.
 
-**[Portfolio: eriik-rz.github.io](https://eriik-rz.github.io)**: mis proyectos, el CV y mis enlaces en una página.
+**[Portfolio: eriik-rz.github.io](https://eriik-rz.github.io)**: mis proyectos, el CV y mis enlaces en una página. Lo que creo, también en vídeo en [TikTok](https://www.tiktok.com/@eriik_rz.dev) e [Instagram](https://www.instagram.com/eriik_rz.dev/).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/areas-oscuro.svg">
@@ -33,7 +33,7 @@ Software SaaS de gestión para operadores de telecomunicaciones.
 ### Proyectos
 
 **[Luzeira](https://github.com/eriik-rz/luzeira)** · <sub>proyecto propio · publicada en nov 2026 · libre (GPL-3.0)</sub><br>
-App para las pantallas USB de monitorización del PC: muestra la CPU, la gráfica, la memoria, la red y la hora, con 32 temas y un editor visual para hacer los tuyos. Hecha con agentes de IA (Claude Code). [Descargar](https://github.com/eriik-rz/luzeira/releases/latest) · [Web](https://eriik-rz.github.io/luzeira/) · Vídeos en [TikTok](https://www.tiktok.com/@eriik_rz.dev) e [Instagram](https://www.instagram.com/eriik_rz.dev/)
+App para las pantallas USB de monitorización del PC: muestra la CPU, la gráfica, la memoria, la red y la hora, con 32 temas y un editor visual para hacer los tuyos. Hecha con agentes de IA (Claude Code). [Descargar](https://github.com/eriik-rz/luzeira/releases/latest) · [Web](https://eriik-rz.github.io/luzeira/)
 
 **Forja de Héroes** · <sub>proyecto propio · desde jul 2026</sub><br>
 Aplicación web de D&D. Hecha con React y agentes de IA (Claude Code). Desplegada.

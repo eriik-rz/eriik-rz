@@ -33,7 +33,7 @@ Software SaaS de gestión para operadores de telecomunicaciones.
 ### Proyectos
 
 **[Luzeira](https://github.com/eriik-rz/luzeira)** · <sub>proyecto propio · publicada en nov 2026 · libre (GPL-3.0)</sub><br>
-App para las pantallas USB de monitorización del PC: muestra la CPU, la gráfica, la memoria, la red y la hora, con 32 temas y un editor visual para hacer los tuyos. Hecha con agentes de IA (Claude Code). [Descargar](https://github.com/eriik-rz/luzeira/releases/latest) · [Web](https://eriik-rz.github.io/luzeira/)
+App para las pantallas USB de monitorización del PC: muestra la CPU, la gráfica, la memoria, la red y la hora, con 32 temas y un editor visual para hacer los tuyos. Hecha con agentes de IA (Claude Code). [Descargar](https://github.com/eriik-rz/luzeira/releases/latest) · [Web](https://eriik-rz.github.io/luzeira/) · Vídeos en [TikTok](https://www.tiktok.com/@eriik_rz.dev) e [Instagram](https://www.instagram.com/eriik_rz.dev/)
 
 **Forja de Héroes** · <sub>proyecto propio · desde jul 2026</sub><br>
 Aplicación web de D&D. Hecha con React y agentes de IA (Claude Code). Desplegada.

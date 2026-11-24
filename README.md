@@ -36,7 +36,7 @@ Software SaaS de gestión para operadores de telecomunicaciones.
 App para las pantallas USB de monitorización del PC: muestra la CPU, la gráfica, la memoria, la red y la hora, con 32 temas y un editor visual para hacer los tuyos. Hecha con agentes de IA (Claude Code). [Descargar](https://github.com/eriik-rz/luzeira/releases/latest) · [Web](https://eriik-rz.github.io/luzeira/)
 
 **Forja de Héroes** · <sub>proyecto propio · desde jul 2026</sub><br>
-Aplicación web de D&D. Hecha con React y agentes de IA (Claude Code). Desplegada.
+Aplicación web de D&D. Hecha con React y agentes de IA (Claude Code). Todavía no es pública.
 
 **Portal B2B para un cliente** · <sub>encargo · desde jul 2026, en desarrollo</sub><br>
 Portal de pedidos para un negocio del sector de la automoción, con acceso de clientes y el catálogo de un proveedor. Laravel, Filament y React.

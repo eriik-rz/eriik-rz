@@ -7,7 +7,7 @@
 
 Soy desarrollador de software y Técnico Superior en Desarrollo de Aplicaciones Web (DAW), titulado en mayo de 2026. Busco un puesto de **desarrollo web, front-end o interfaces**, mejor si va de la mano de la IA, en remoto o presencial en la zona de Granada y Jaén.
 
-**[Portfolio: eriik-rz.github.io](https://eriik-rz.github.io)**: mis proyectos, el CV y mis enlaces en una página. Lo que creo, también en vídeo en [TikTok](https://www.tiktok.com/@eriik_rz.dev) e [Instagram](https://www.instagram.com/eriik_rz.dev/).
+**[Portfolio: eriik-rz.github.io](https://eriik-rz.github.io)**: mis proyectos, el CV y mis enlaces en una página. Lo que creo, también en vídeo en [TikTok](https://www.tiktok.com/@eriik_rz.dev), [Instagram](https://www.instagram.com/eriik_rz.dev/), [X](https://x.com/eriik_rz_dev) y [Facebook](https://www.facebook.com/eriik.rz.dev).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/areas-oscuro.svg">
